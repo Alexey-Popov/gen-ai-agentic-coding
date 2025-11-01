@@ -1,0 +1,48 @@
+[
+  {
+    "transaction_id": "TXN001",
+    "amount": 1000.00,
+    "currency": "USD",
+    "account_from": "ACC123456",
+    "account_to": "ACC789012",
+    "transaction_type": "wire",
+    "description": "Payment for services"
+  },
+  {
+    "transaction_id": "TXN002",
+    "amount": 5000.00,
+    "currency": "USD",
+    "account_from": "ACC789012",
+    "account_to": "ACC345678",
+    "transaction_type": "wire",
+    "description": "Business payment"
+  },
+  {
+    "transaction_id": "TXN003",
+    "amount": 15000.00,
+    "currency": "USD",
+    "account_from": "ACC123456",
+    "account_to": "ACC789012",
+    "transaction_type": "wire",
+    "description": "Large business transaction"
+  },
+  {
+    "transaction_id": "TXN004",
+    "amount": 500.00,
+    "currency": "EUR",
+    "account_from": "ACC345678",
+    "account_to": "ACC999999",
+    "transaction_type": "ach",
+    "description": "International payment"
+  },
+  {
+    "transaction_id": "TXN005",
+    "amount": 25000.00,
+    "currency": "USD",
+    "account_from": "ACC123456",
+    "account_to": "ACC789012",
+    "transaction_type": "wire",
+    "description": "High-value transfer"
+  }
+]
+
